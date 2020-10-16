@@ -8,5 +8,4 @@ eureka:
     hostname: localhost
 
 service:
-  endpoint:
-    url: http://PAYMENT-SERVICE/payment/dopayment 
+  url: http://PAYMENT-SERVICE/payment/dopayment 
