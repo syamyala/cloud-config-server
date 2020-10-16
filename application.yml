@@ -8,7 +8,6 @@ eureka:
     hostname: localhost
 
 microservice:
-
   payment-service:
     endpoints:
       endpoint:
