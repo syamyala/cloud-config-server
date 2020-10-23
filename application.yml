@@ -7,8 +7,3 @@ eureka:
   instance:
     hostname: localhost
 
-service:
-  url: http://PAYMENT-SERVICE/payment/dopayment 
-application:
-  welcome:
-    message: This is an example
